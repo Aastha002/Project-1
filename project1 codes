@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<link rel="stylesheet" href="C:\Users\AASTHA JHA\OneDrive\Desktop\bytecode\aas.css">
+<body>
+   <center> <button> <h1>COMPUTER SCIENCE AND ENGINEERING</h1></button></center></body><br><br>
+    <body style="margin:30px;padding:10px">
+
+   <div class ="line1">
+       <div style="width: 300px; float:left; height: 300px; margin: 5px ; border: 5px solid grey;background-color:white ;"></div>
+       <div style="width: 300px; float:left; height: 300px; margin: 5px ; border: 5px solid grey ;background-color:white;"></div>
+       <div style="width: 300px; float:left; height: 300px; margin: 5px ; border: 5px solid grey;background-color:white ;"></div>
+       <div style="width: 300px; float:left; height: 300px; margin: 5px ; border: 5px solid grey;background-color:white ;"></div></div><br><br><br>
+    <div class="line2">  
+       <div style="width: 300px; float:left; height: 300px; margin: 5px ; border: 5px solid ;background-color:white;"></div>
+       <div style="width: 300px; float:left; height: 300px; margin: 5px ; border: 5px solid grey;background-color:white ;"></div>
+       <div style="width: 300px; float:left; height: 300px; margin: 5px ; border: 5px solid grey;background-color:white ;"></div>
+       <div style="width: 300px; float:left; height: 300px; margin: 5px ; border: 5px solid grey;background-color:white ;"></div></div><br><br><br>
+    <div class="line3"> 
+       <div style="width: 300px; float:left; height: 300px; margin: 5px ; border: 5px solid grey;background-color:white ;"></div>
+       <div style="width: 300px; float:left; height: 300px; margin: 5px ; border: 5px solid grey;background-color:white ;"></div>
+       <div style="width: 300px; float:left; height: 300px; margin: 5px ; border: 5px solid grey;background-color:white;"></div>
+       <div style="width: 300px; float:left; height: 300px; margin: 5px ; border: 5px solid grey;background-color:white;"></div></div>
+      
+</body>
+</html>
+
+
+
+body{
+    background-color: rgb(10, 10, 10);
+}
+h1{
+    color: rgb(0, 0, 0);
+}
+button{
+    border-radius: 10px;
+    background-color: rgb(133, 125, 125);
+    box-shadow: 10px 10px 10px 10px rgb(68, 67, 64) inset;
+}
+.line1{
+    
+    display: flex;
+    justify-content: space-between;
+
+}
+.line2{
+    display: flex;
+    justify-content: space-between;
+}
+.line3{
+    
+    display: flex;
+    justify-content: space-between;
+}
